@@ -1,8 +1,8 @@
 # NLW HEAT
 
-## Em Desenvolvimento
+- DO While 2021, uma aplicação onde usuários autenticados pelo Github podem postar mensagens em tempo real usando WebSockets. Não pude participar no Ano de 2021, então desenvolvi no ano de 2022.
 
-- DO While 2021, uma aplicação onde usuários autenticados pelo Github pode postar mensagens em tempo real usano WebSockets. Não puder participar no Ano de 2021, então desenvolvi no ano de 2022
+## Em Desenvolvimento
 
 ## Tecnologias
 
@@ -12,3 +12,4 @@
 - Socket.io
 - Prisma ORM
 - JWT (JSON WEB TOKEN)
+- React Native
